@@ -1,5 +1,3 @@
-# Dor_Haboosha_helfy_task
-
 # Task Manager App
 ## Backend Setup
 1. cd backend
