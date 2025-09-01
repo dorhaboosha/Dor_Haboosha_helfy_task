@@ -17,43 +17,6 @@ A simple full-stack Task Manager with a **React + Vite** frontend and a **Node.j
 - Loading & error states
 - Responsive, clean UI using **regular CSS only**
 
-## Repository Structure
-
-```
-task-manager/
-├── backend/
-│   ├── package.json
-│   ├── server.js
-│   ├── routes/
-│   │   └── tasks.routes.js
-│   └── middleware/
-│       └── errorHandler.js
-├── frontend/
-│   ├── package.json
-│   ├── index.html
-│   └── src/
-│       ├── components/
-│       │   ├── TaskList.tsx (or .jsx)
-│       │   ├── TaskItem.tsx
-│       │   ├── TaskForm.tsx
-│       │   ├── TaskFilter.tsx
-│       │   ├── Spinner.tsx
-│       │   └── ErrorBanner.tsx
-│       ├── services/
-│       │   └── api.ts
-│       ├── styles/
-│       │   └── globals.css
-│       ├── types/
-│       │   └── Task.ts
-│       └── App.tsx
-├── .gitignore
-└── README.md
-```
-
-> **Note:** File names are examples—use your project’s actual files.
-
----
-
 ## Getting Started
 
 ### 1) Backend Setup (Port 4000)
