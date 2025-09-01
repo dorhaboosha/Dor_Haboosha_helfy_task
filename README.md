@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Manager App (Helfy Task)
 
 A simple full-stack Task Manager with a **React + Vite** frontend and a **Node.js + Express** backend (in-memory storage). Users can create, view, update, delete, toggle completion, and filter tasks. The UI includes an **endless carousel** that smoothly loops through tasks.
